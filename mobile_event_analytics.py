@@ -1,5 +1,5 @@
 # =============================================================================
-# PROJECT 4: Mobile App Event Tracking and Funnel Dashboard
+# Mobile App Event Tracking and Funnel Dashboard
 # =============================================================================
 # What this project does:
 #   - Simulates a realistic mobile event tracking dataset (iOS and Android)
